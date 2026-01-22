@@ -1,7 +1,5 @@
 # 💫 About Me:
-Hello! I'm Jomel Sotelo. I'm a student at Sacramento State pursuing my Computer Science degree.
-
-🔭 I’m currently working on a personalized learning platform.
+Hello! I'm Jomel Sotelo. I'm a recent graduate at Sacramento State.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jomelsotelo) 
